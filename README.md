@@ -1,6 +1,6 @@
 # Ticker - Automatic Website Time Tracker (Chrome Extension)
 
-Track learning time on sites like LeetCode. Perfect for students to monitor study sessions and assign time to specific tasks. 100% private, offline, and no account required.
+Track learning time on educational websites. Perfect for students to monitor study sessions and assign time to specific tasks. 100% private, offline, and no account required.
 
 ## Features
 
@@ -12,7 +12,7 @@ Track learning time on sites like LeetCode. Perfect for students to monitor stud
 
 ## How to Use
 
-1. **Add Websites to Track:** Click the Ticker extension icon, then click the settings gear ⚙️ to open your Dashboard. Go to the **Websites** tab and add the domains you want to track (e.g., `youtube.com`, `twitter.com`).
+1. **Add Websites to Track:** Click the Ticker extension icon, then click the settings gear ⚙️ to open your Dashboard. Go to the **Websites** tab and add the domains you want to track (e.g., educational platforms, university portals).
 2. **Manage Tasks (Todos):** In the Dashboard, go to the **Todos** tab to create specific tasks you want to track time against (e.g., "Research", "Development").
 3. **Start Tracking:** Simply visit any tracked website! A draggable floating timer will appear on the page, showing your tracked time for that site today.
 4. **Select a Task:** Click the floating timer (or open the extension popup) to assign your active session to one of your tasks.

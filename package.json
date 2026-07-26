@@ -1,7 +1,7 @@
 {
   "name": "ticker-extension",
   "version": "1.0.0",
-  "description": "Track learning time on sites like LeetCode. Perfect for students to monitor study sessions and assign time to tasks. 100% private.",
+  "description": "Track your time effortlessly with a smart, draggable floating timer. 100% private, offline, and no account required.",
   "private": true,
   "scripts": {
     "dev": "vite build --watch & npx esbuild src/content/content.ts --bundle --outfile=dist/content/content.js --alias:@=./src --watch",
