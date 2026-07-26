@@ -10,6 +10,14 @@ Track your time effortlessly with a smart, draggable floating timer. 100% privat
 - **Detailed Analytics:** View your time spent across different days, weeks, and months with built-in charts.
 - **Export & Import:** Full control over your data. Export your history to JSON or CSV.
 
+## How to Use
+
+1. **Add Websites to Track:** Click the Ticker extension icon, then click the settings gear ⚙️ to open your Dashboard. Go to the **Websites** tab and add the domains you want to track (e.g., `youtube.com`, `twitter.com`).
+2. **Manage Tasks (Todos):** In the Dashboard, go to the **Todos** tab to create specific tasks you want to track time against (e.g., "Research", "Development").
+3. **Start Tracking:** Simply visit any tracked website! A draggable floating timer will appear on the page, showing your tracked time for that site today.
+4. **Select a Task:** Click the floating timer (or open the extension popup) to assign your active session to one of your tasks.
+5. **View Analytics:** Open your Dashboard and check the **Analytics** tab to visualize your time spent across websites and tasks over days, weeks, and months.
+
 ## Installation
 
 ### From Chrome Web Store
