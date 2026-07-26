@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Ticker",
   "version": "1.0.0",
-  "description": "Track your time effortlessly with a smart, draggable floating timer. 100% private, offline, and no account required.",
+  "description": "Track learning time on sites like LeetCode. Perfect for students to monitor study sessions and assign time to tasks. 100% private.",
   "permissions": [
     "tabs",
     "windows",

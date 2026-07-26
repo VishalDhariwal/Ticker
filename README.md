@@ -1,6 +1,6 @@
 # Ticker - Automatic Website Time Tracker (Chrome Extension)
 
-Track your time effortlessly with a smart, draggable floating timer. 100% private, offline, and no account required.
+Track learning time on sites like LeetCode. Perfect for students to monitor study sessions and assign time to specific tasks. 100% private, offline, and no account required.
 
 ## Features
 
