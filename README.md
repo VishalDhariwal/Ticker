@@ -1,4 +1,4 @@
-# Ticker - Automatic Website Time Tracker
+# Ticker - Automatic Website Time Tracker (Chrome Extension)
 
 Track your time effortlessly with a smart, draggable floating timer. 100% private, offline, and no account required.
 
